@@ -51,7 +51,7 @@ I hope you find my paper as informative and fun as I did!
 
 # Acknowledgments
 I did not get to put this section in the paper, but I really wanted to thank every resource that helped me through.
-• The two links above were absolutely paramount to give me the idea of the project
-• Johns Hopkins University for making SciServer available to all
-• SciHub for allowing me to run through many papers to get a grasp on the topic without breaking a bank
-• And The University of Sydney’s Data-driven Astronomy course on Coursera for the technical skills I needed to succeed.
+* The two links above were absolutely paramount to give me the idea of the project
+* Johns Hopkins University for making SciServer available to all
+* SciHub for allowing me to run through many papers to get a grasp on the topic without breaking a bank
+* And The University of Sydney’s Data-driven Astronomy course on Coursera for the technical skills I needed to succeed.
